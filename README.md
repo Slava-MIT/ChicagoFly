@@ -20,7 +20,7 @@ Chicago Fly is an arcade-style game for Android.
 
 **Platform:** Android
 
-The APK download link will be added after publishing the release.
+[Download Chicago Fly APK](https://github.com/Slava-MIT/ChicagoFly/releases/download/v1.0.0/chicagofly-0.2-arm64-v8a_armeabi-v7a-debug.apk)
 
 ## Installation
 
